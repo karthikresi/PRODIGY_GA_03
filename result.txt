@@ -1,0 +1,45 @@
+Generated Word Sequence:
+alice was beginning to get very tired of sitting by her sister on the bank and of having nothing to do once or twice she had peeped into the book her sister was reading but it had no pictures or conversations in it and what is the use of a book thought alice
+
+Generated Character Sequence:
+alice with pink eyes ran close by her feel very tired of a book her sister own mind as she hot day made her sister on the had no pictures or conversation so she could be worth the daisies when suddenly a 
+
+Probability of 'to' following ('alice', 'was', 'beginning'): 1.0
+
+Probability of 'tired' following ('to', 'get', 'very'): 1.0
+
+Probability of 'nothing' following ('and', 'of', 'having'): 1.0
+
+Probability of 'into' following ('she', 'had', 'peeped'): 1.0
+
+Probability of 'her' following ('into', 'the', 'book'): 1.0
+
+Probability of 'was' following ('book', 'her', 'sister'): 1.0
+
+Probability of 'reading' following ('her', 'sister', 'was'): 1.0
+
+Probability of 'no' following ('but', 'it', 'had'): 1.0
+
+Probability of 'conversations' following ('no', 'pictures', 'or'): 1.0
+
+Probability of 'pictures' following ('thought', 'alice', 'without'): 1.0
+
+Probability of 'e' following ('a', 'l', 'i', 'c'): 1.0
+
+Probability of 'b' following ('t', 'h', 'e', ' '): 0.2857142857142857
+
+Probability of ' ' following ('o', 'n', 'c', 'e'): 1.0
+
+Probability of 's' following ('h', 'e', 'r', ' '): 0.4
+
+Probability of 'g' following ('t', 'h', 'o', 'u'): 0.5
+
+Probability of 'i' following ('r', 'e', 'a', 'd'): 1.0
+
+Probability of ' ' following ('b', 'o', 'o', 'k'): 1.0
+
+Probability of 'e' following ('c', 'o', 'n', 'v'): 1.0
+
+Probability of 'e' following ('s', 'i', 's', 't'): 1.0
+
+Probability of 'o' following ('a', 'n', 'd', ' '): 0.25
